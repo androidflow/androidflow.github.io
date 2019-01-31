@@ -22,9 +22,11 @@ body {
 }
 
 .row.featurette:nth-child(even){
-  background:#e6f1fa;
+  background:#ffd9bf;
   padding-bottom:50px;
 }
+
+/* e6f1fa */
 
 .isStuck{
     left:0px;
