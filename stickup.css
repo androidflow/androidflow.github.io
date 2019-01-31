@@ -22,7 +22,7 @@ body {
 }
 
 .row.featurette:nth-child(even){
-  background:#ffd9bf;
+  background:#ffeee2;
   padding-bottom:50px;
 }
 
@@ -82,7 +82,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 450px;
-  background-color: #ff6a00;
+  background-color: #f2ae65;
 }
 
 /*  #0A64A4 */
