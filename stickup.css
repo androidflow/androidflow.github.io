@@ -51,10 +51,14 @@ body {
   color:#fff;
 }
 .navbar.navbar-inverse.navbar-static-top a:hover{
-  color:#0A64A4;
+ /* color:#0A64A4; */
+  color:#000033;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus{
-  background:#398439;
+  
+ /* background:#398439; */
+  background:#000099;
+  
   font-weight:700;
 }
 .navbar-inverse .navbar-nav>.active>a:hover {
