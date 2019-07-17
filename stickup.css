@@ -65,7 +65,8 @@ body {
   font-weight:700;
 }
 .navbar-inverse .navbar-nav>.active>a:hover {
-  background:#398439;
+/*  background:#398439;*/
+  background:#0000cc;
   color:#fff;
   font-weight:700;
 }
