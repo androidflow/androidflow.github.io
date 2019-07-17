@@ -44,8 +44,11 @@ body {
 }
 
 .navbar.navbar-inverse.navbar-static-top {
-  background: #5cb85c;
-  border-color: #398439;
+  /* background: #5cb85c; 
+  border-color: #398439;*/
+  background:#0000cc;
+  border-color:#000099;
+  
 }
 .navbar.navbar-inverse.navbar-static-top a{
   color:#fff;
